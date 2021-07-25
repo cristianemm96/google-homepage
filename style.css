@@ -86,11 +86,7 @@ header{
 footer{
     width:100%;
     background-color:#f3f7fa;
-<<<<<<< HEAD
     height: 48px;
-=======
-    height: 40px;
->>>>>>> 183a32234ff400f3afe9dd500fefed77d250708e
     margin-top: 232px;
     display: flex;
     justify-content: space-between;
